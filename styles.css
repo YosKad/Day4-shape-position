@@ -1,0 +1,89 @@
+.square-big {
+    background-color: #0e1649;
+    width: 1186px;
+    height: 720px;
+    margin-top: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+
+}
+
+.square-semibig {
+    width: 176px;
+    height: 176px;
+    background-color: #ff7748;
+    position: absolute;
+    left: -88px;
+    top: 632px;
+
+}
+
+.logo {
+    position: absolute;
+    top: 78px;
+    left: -180px;
+}
+
+.small-ball {
+    width: 104px;
+    height: 104px;
+    background-color: #ff9f00;
+    top: 668px;
+    left: 151px;
+    position: absolute;
+    border-radius: 100px;
+}
+
+.small-Polygon {
+    width: 131px;
+    height: 132px;
+    top: 433px;
+    left: -65.5px;
+    position: absolute;
+
+}
+
+h1 {
+    width: 610px;
+    height: 84px;
+    font-size: 64px;
+    font-weight: 800;
+    font-family: 'Assistant', sans-serif;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: white;
+    top: 318px;
+    position: absolute;
+    right: 288px;
+}
+
+.square-semibig-right {
+    width: 176px;
+    height: 176px;
+    background-color: #ff7748;
+    position: absolute;
+    top: 199px;
+    right: -88px;
+}
+
+.big-ball {
+    width: 283px;
+  height: 284px;
+  position: absolute;
+  background-color: #ff9f00;
+  border-radius: 200px;
+  right: -142px;
+  top: -142px;
+
+}
+.big-Polygon {
+    width: 163px;
+  height: 163px;
+  position: absolute;
+  right: 210px;
+  top: -81.5px;
+}
